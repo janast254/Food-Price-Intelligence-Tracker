@@ -1,4 +1,4 @@
-# Nigeria Food Price Intelligence Tracker
+# Food Price Intelligence Tracker
 
 ## Overview
 
